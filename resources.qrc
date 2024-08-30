@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Dice_images/five.bmp</file>
+        <file>Dice_images/four.bmp</file>
+        <file>Dice_images/one.bmp</file>
+        <file>Dice_images/six.bmp</file>
+        <file>Dice_images/two.bmp</file>
+        <file>Dice_images/three.bmp</file>
+    </qresource>
+</RCC>
